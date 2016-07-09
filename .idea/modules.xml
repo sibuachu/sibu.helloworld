@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sibu.helloworld.iml" filepath="$PROJECT_DIR$/.idea/modules/sibu.helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sibu.helloworld_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sibu.helloworld_main.iml" group="sibu.helloworld" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sibu.helloworld_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sibu.helloworld_test.iml" group="sibu.helloworld" />
+    </modules>
+  </component>
+</project>
